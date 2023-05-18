@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1679208660 source:c:\users\param\onedrive\escritorio\proyecto\main.cpp
+	<iostream>
+	"Pasajeros.h"
+	<string.h>
+
+1684443952 c:\users\param\onedrive\escritorio\proyecto\pasajeros.h
+	<string.h>
+	<iostream>
+	"Nodo.h"
+
+1684443952 c:\users\param\onedrive\escritorio\proyecto\nodo.h
+	"Pasajeros.h"
+	<string.h>
+
+1684443952 source:c:\users\param\onedrive\escritorio\proyecto\nodo.cpp
+	"Pasajeros.h"
+	<string.h>
+
+1684443952 source:c:\users\param\onedrive\escritorio\proyecto\pasajeros.cpp
+	"Pasajeros.h"
+	<iostream>
+	<string.h>
+	<conio.h>
+
+1684447034 source:c:\users\param\onedrive\escritorio\proyecto\proyectofinalsed2\main.cpp
+	"menu.hpp"
+
+1684446380 c:\users\param\onedrive\escritorio\proyecto\proyectofinalsed2\pasajeros.h
+	<string.h>
+	<iostream>
+	"Nodo.h"
+
+1684446118 c:\users\param\onedrive\escritorio\proyecto\proyectofinalsed2\nodo.h
+	"Pasajeros.h"
+	<string.h>
+
+1684445437 source:c:\users\param\onedrive\escritorio\proyecto\proyectofinalsed2\nodo.cpp
+	"Pasajeros.h"
+	<string.h>
+
+1684446412 source:c:\users\param\onedrive\escritorio\proyecto\proyectofinalsed2\pasajeros.cpp
+	"Pasajeros.h"
+	<iostream>
+	<string.h>
+	<conio.h>
+	<fstream>
+
+1684447938 c:\users\param\onedrive\escritorio\proyecto\proyectofinalsed2\menu.hpp
+	<iostream>
+	<string.h>
+	<fstream>
+	"Pasajeros.h"
+
